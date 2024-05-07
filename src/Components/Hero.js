@@ -19,7 +19,7 @@ export default function Hero() {
   };
   
   const fadeInVariant = {
-    hidden: { opacity: 0, y: 20 }, // Start slightly below the original position
+    hidden: { opacity: 0, y: 21 }, // Start slightly below the original position
     show: {
       opacity: 1,
       y: 0, // Return to the original position
