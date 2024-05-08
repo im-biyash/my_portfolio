@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
 
 export default function Navbar() {
   return (
-    <nav className="bg-[#0a192f] fixed w-full z-10">
+    <nav className="bg-[#0a192f] fixed w-full z-9">
       <div className="flex justify-between items-center p-4">
         <div className="logo p-2">
           <h1 className="text-red-500 text-3xl">
