@@ -23,7 +23,7 @@ export default function Hero() {
     show: {
       opacity: 1,
       y: 0, // Return to the original position
-      transition: { duration: 2, ease: "easeInOut" }, // Use "easeInOut" for smooth animation
+      transition: { duration: 3, ease: "easeInOut" }, // Use "easeInOut" for smooth animation
     },
   };
 
