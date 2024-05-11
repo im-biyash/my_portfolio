@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="bg-[#0a192f] fixed w-full z-9">
       <div className="flex justify-between items-center p-4">
         <div className="logo p-2">
-          <h1 className="text-red-700 text-2xl">
+          <h1 className="text-red-700 text-3xl">
             port<span className="text-white">folio</span>
           </h1>
         </div>
